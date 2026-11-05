@@ -125,7 +125,7 @@ y no necesita depender directamente de una implementación concreta.
 ## 🧩 Estructura del proyecto
 
 ```text
-trabajoPatrones-master/
+MenusAbstractFactories/
 ├── README.md
 ├── recursos/
 │   ├── datos_menus.csv
