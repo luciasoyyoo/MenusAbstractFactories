@@ -1,0 +1,31 @@
+Restaurante,Plato,Categoria,Tipo,Calorias
+El Rincón,Tortitas con Sirope y Fresas,Infantil,Desayuno,350
+Cereal Station,Tazón de Chocapic con Leche Entera,Infantil,Desayuno,420
+Desayunos Paco,Huevos Revueltos con Bacon,Infantil,Desayuno,450
+Dulce Amanecer,Churros con Chocolate,Infantil,Desayuno,550
+La Tostada,Tostada Francesa con Miel,Infantil,Desayuno,380
+Green Life,Avena con Semillas de Chía y Manzana,Saludable,Desayuno,280
+Fit Food,Tostada Integral con Aguacate y Pavo,Saludable,Desayuno,310
+Healthy Morning,Yogur Griego con Nueces y Arándanos,Saludable,Desayuno,250
+BioCafe,Batido Verde Detox con Espinacas,Saludable,Desayuno,180
+Sano y Rico,Tortilla de Claras con Champiñones,Saludable,Desayuno,210
+Burger Kids,Hamburguesa con Queso y Patatas,Infantil,Almuerzo,650
+Pizzería Roma,Pizza Margarita Pequeña,Infantil,Almuerzo,580
+La Pasta,Macarrones con Tomate y Chorizo,Infantil,Almuerzo,520
+Pollo Feliz,Nuggets de Pollo con Salsa,Infantil,Almuerzo,490
+El Asador,Pechuga Empanada con Patatas Fritas,Infantil,Almuerzo,610
+Fit Food,Ensalada de Quinoa con Atún al Natural,Saludable,Almuerzo,380
+Green Life,Pechuga de Pollo a la Plancha con Brócoli,Saludable,Almuerzo,410
+Sano y Rico,Salmón al Horno con Espárragos,Saludable,Almuerzo,450
+BioCafe,Crema de Calabacín y Puerro,Saludable,Almuerzo,220
+Healthy Grill,Wok de Verduras con Tofu,Saludable,Almuerzo,320
+La Pasta,Espaguetis a la Boloñesa,Infantil,Cena,540
+Burger Kids,Perrito Caliente con Ketchup,Infantil,Cena,430
+Diner,Sándwich Mixto con Queso Fundido,Infantil,Cena,390
+El Rincón,Varitas de Pescado con Mayonesa,Infantil,Cena,460
+Pizzería Roma,Lasaña de Carne Gratinada,Infantil,Cena,600
+Fit Food,Merluza a la Plancha con Ensalada,Saludable,Cena,290
+Green Life,Sopa de Verduras Casera,Saludable,Cena,180
+Healthy Grill,Revuelto de Ajetes y Gambas,Saludable,Cena,260
+BioCafe,Ensalada Caprese con Mozzarella Light,Saludable,Cena,310
+Sano y Rico,Pechuga de Pavo con Tomate Aliñado,Saludable,Cena,240
